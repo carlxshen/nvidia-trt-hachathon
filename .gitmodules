@@ -1,0 +1,6 @@
+[submodule "trt_samples_for_hackathon"]
+	path = trt_samples_for_hackathon
+	url = https://github.com/carlxshen/trt-samples-for-hackathon-cn
+[submodule "center_point"]
+	path = center_point
+	url = https://github.com/carlxshen/CenterPoint
